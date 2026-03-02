@@ -4,16 +4,6 @@ This repository contains my C language practice programs as I learn and improve 
 
 ---
 
-## 📂 Folder Structure
-
-### 03_Loops
-- prime.c → Check whether a number is prime
-- factorial.c → Find factorial of a number
-
-( More programs will be added regularly )
-
----
-
 ## 🛠 Concepts Covered
 
 - Variables and Data Types
